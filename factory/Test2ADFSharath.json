@@ -1,0 +1,9 @@
+{
+	"name": "Test2ADFSharath",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "c9a56a9b-97cf-4519-b6ca-a6331dea8315",
+		"tenantId": "b225d943-5c7c-4b82-ad54-4e21861289b7"
+	}
+}
